@@ -1,6 +1,5 @@
 
-### The following 3D printer's firmware parameters will be adjusted:
-<BR>
+#### The following 3D printer's firmware parameters will be adjusted:
 
 * Default Steps per mm (default_steps_per_mm, set to 492.45).
 * Default Motor Current (default_motor_current, set to 1000).
